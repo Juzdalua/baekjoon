@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("baekjoon")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bb4ca23a6dde547ff3324f20b9b994bd2d6ad4c4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7267d8e25a5f7edb6d8a3f601409cab65420f4c9")]
 [assembly: System.Reflection.AssemblyProductAttribute("baekjoon")]
 [assembly: System.Reflection.AssemblyTitleAttribute("baekjoon")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
