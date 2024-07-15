@@ -1,0 +1,15 @@
+c:\Users\Jun\Desktop\workspace\baekjoon\bin\Debug\net8.0\baekjoon.exe
+c:\Users\Jun\Desktop\workspace\baekjoon\bin\Debug\net8.0\baekjoon.deps.json
+c:\Users\Jun\Desktop\workspace\baekjoon\bin\Debug\net8.0\baekjoon.runtimeconfig.json
+c:\Users\Jun\Desktop\workspace\baekjoon\bin\Debug\net8.0\baekjoon.dll
+c:\Users\Jun\Desktop\workspace\baekjoon\bin\Debug\net8.0\baekjoon.pdb
+c:\Users\Jun\Desktop\workspace\baekjoon\obj\Debug\net8.0\baekjoon.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Jun\Desktop\workspace\baekjoon\obj\Debug\net8.0\baekjoon.AssemblyInfoInputs.cache
+c:\Users\Jun\Desktop\workspace\baekjoon\obj\Debug\net8.0\baekjoon.AssemblyInfo.cs
+c:\Users\Jun\Desktop\workspace\baekjoon\obj\Debug\net8.0\baekjoon.csproj.CoreCompileInputs.cache
+c:\Users\Jun\Desktop\workspace\baekjoon\obj\Debug\net8.0\baekjoon.sourcelink.json
+c:\Users\Jun\Desktop\workspace\baekjoon\obj\Debug\net8.0\baekjoon.dll
+c:\Users\Jun\Desktop\workspace\baekjoon\obj\Debug\net8.0\refint\baekjoon.dll
+c:\Users\Jun\Desktop\workspace\baekjoon\obj\Debug\net8.0\baekjoon.pdb
+c:\Users\Jun\Desktop\workspace\baekjoon\obj\Debug\net8.0\baekjoon.genruntimeconfig.cache
+c:\Users\Jun\Desktop\workspace\baekjoon\obj\Debug\net8.0\ref\baekjoon.dll
