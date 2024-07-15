@@ -3,7 +3,7 @@ using System.Linq;
 
 namespace baekjoon
 {
-    public class Solution
+    public class Solution_2720
     {
         public class InputSystem
         {
@@ -20,7 +20,7 @@ namespace baekjoon
             }
         }
 
-        public static void Main(string[] args)
+        public void Answer()
         {
             List<string> input = new List<string>();
             InputSystem inputSystem = new InputSystem();
@@ -31,7 +31,7 @@ namespace baekjoon
             int nickel = 5;
             int penny = 1;
 
-            int[] money = new int[]{quater, dime, nickel, penny};
+            int[] money = new int[] { quater, dime, nickel, penny };
 
             List<string> answer = new List<string>();
 
@@ -54,7 +54,8 @@ namespace baekjoon
                 answer.Add(String.Join(" ", answerStr));
             }
 
-            for(int i=0; i<answer.Count; i++){
+            for (int i = 0; i < answer.Count; i++)
+            {
                 Console.WriteLine(answer[i]);
             }
         }
